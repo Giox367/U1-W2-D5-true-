@@ -310,12 +310,15 @@ table tbody tr td{
 table tbody tr:nth-child(odd){
 background-color: #D4DDE6;
 }
-table tbody tr:nth-child(even) {
-    background-color: none;
+
+/*css addicted to pag 3*/
+
+#header_pag_3{
+    background-color: white;
+    box-shadow: 0 0.3em 0.2em #d3d3d3;
     
+    width: 100vw;
 }
-
-
 
 
 /* RESPONSIVE */
